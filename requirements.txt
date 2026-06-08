@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+nltk
+scikit-learn
+fastapi
+uvicorn
+python-docx
+pymupdf
+reportlab
