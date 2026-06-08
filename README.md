@@ -97,25 +97,31 @@ Fast similarity search without comparing every document pair.
 
 ## 🏠 Dashboard
 
-![Dashboard](screenshots/dashboard-home.png)
+<img src="https://raw.githubusercontent.com/sujalkrshaw/PlagiarismGuard-AI/main/outputs/dashboard_1.png.png" width="100%">
 
 ---
 
 ## 📊 Similarity Analytics
 
-![Metrics](screenshots/dashboard-metrics.png)
+<img src="https://raw.githubusercontent.com/sujalkrshaw/PlagiarismGuard-AI/main/outputs/dashboard_part_2.png" width="100%">
+
+---
+
+## 📈 Dashboard Analytics
+
+<img src="https://raw.githubusercontent.com/sujalkrshaw/PlagiarismGuard-AI/main/outputs/ddashboard_part_3.png.png" width="100%">
 
 ---
 
 ## 📄 Document Analysis
 
-![Document Analysis](screenshots/document-analysis.png)
+<img src="https://raw.githubusercontent.com/sujalkrshaw/PlagiarismGuard-AI/main/outputs/document_analysis.png.png" width="100%">
 
 ---
 
 ## 📑 Reports Center
 
-![Reports](screenshots/reports-page.png)
+<img src="https://raw.githubusercontent.com/sujalkrshaw/PlagiarismGuard-AI/main/outputs/reports.png.png" width="100%">
 
 ---
 
